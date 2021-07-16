@@ -521,7 +521,7 @@ body {
 }
 .footer .container .left span {
 	color: white;
-	font-size: 15px;
+	font-size: 12px;
 }
 .footer .container .right {
 	display: flex;
@@ -535,7 +535,7 @@ body {
 }
 .footer .container .right  span {
 	color: white;
-	font-size: 12px;
+	font-size: 15px;
 }
 .footer .container .right .icons {
 	margin-left: 10px;
