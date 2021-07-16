@@ -514,6 +514,11 @@ body {
 	justify-content: space-between;
 	padding: 80px 30px;
 }
+@media (max-width: 767px) {
+	.footer .container {
+		flex-direction: column;
+	}
+}
 .footer .container .left span {
 	color: white;
 	font-size: 15px;
@@ -522,6 +527,11 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: space-between
+}
+@media (max-width: 767px) {
+	.footer .container .right  {
+		margin-top: 20px;
+	}
 }
 .footer .container .right  span {
 	color: white;
