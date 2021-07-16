@@ -489,7 +489,6 @@ body {
 	
 }
 .contact-us .container .right-side button {
-	margin-top: 10px;
 	margin-left: 40px;
 	padding: 12px 30px;
 	color: white;
@@ -497,6 +496,7 @@ body {
 	border-radius: 20px;
 	border: none;
 	letter-spacing: 1px;
+        margin: 10px auto;
 }
 .contact-us .container .right-side .message {
 	width: 100%;
